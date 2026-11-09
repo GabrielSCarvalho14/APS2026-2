@@ -1,0 +1,6 @@
+APS 2026/2 - Projeto completo em C11 com interface Win32
+Compilacao no Windows (GCC/MinGW-w64): execute build_gui.bat.
+Execucao da interface: APS_Interface.exe ou abrir_interface.bat.
+O codigo inclui comentarios sobre todas as funcoes, sem alterar os comandos
+ou as instrucoes dos algoritmos que fundamentaram os testes.
+A interface usa o executavel aps_ordenacao.exe, gerado na compilacao.
